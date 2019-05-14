@@ -1,16 +1,16 @@
 MakersBnB Challenge
 =================
 
+Week 6 Makers Academy group project to build an Air BnB clone.
+
+Original version collaboration repo <a href="https://github.com/Kintaro-Oe/MakersBnB">here</a>
+
 __Team Collaborators__
 
-Marcus Clairmont - https://github.com/Kintaro-Oe
-Sejin Kim - https://github.com/sejinkay
-Jordan Roberts - https://github.com/jordantroberts
-Scott Hall - https://github.com/HottScall
-
-### Context
-Makers Academy - Week six group challenge:
-Build an Airbnb clone.
+<a href="https://github.com/Kintaro-Oe">Marcus Clairmont</a>
+<a href="https://github.com/sejinkay">Sejin Kim</a>
+<a href="https://github.com/HottScall">Scott Hall</a>
+<a href="https://github.com/jordantroberts">Jordan Roberts (me)</a>
 
 ### Build Status  
 * MVP achieved - *YES*
