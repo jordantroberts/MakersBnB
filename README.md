@@ -124,7 +124,7 @@ __Launching & closing the server for the app__
 * Enter `CTRL+C` to close the server
 
 <div align="center">
-    <img src="Screenshot.png" width="400px"</img>
+    <img src="Screenshot.png" width="900px"</img>
 </div>
 
 
