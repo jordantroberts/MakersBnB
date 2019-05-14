@@ -123,6 +123,11 @@ __Launching & closing the server for the app__
 * Enter `rackup -p 3456` into command line to start the server. (3456 may be changed to any port number you like)
 * Enter `CTRL+C` to close the server
 
+<div align="center">
+    <img src="Screenshot.png" width="400px"</img>
+</div>
+
+
 __Using the app__
 
 * Enter the url `http://localhost:3456/` in your browser to view the app (or your chosen port number)
